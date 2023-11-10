@@ -1,2 +1,2 @@
 # https://noeliawalterpro.github.io/
-# v1.2.1
+# v1.2.2
