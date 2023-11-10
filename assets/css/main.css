@@ -71,7 +71,9 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
-
+.overlay.style1 {
+    mix-blend-mode: luminosity;
+}
 .flex-row p, .box p {
     text-align: center;
 }
@@ -99,6 +101,9 @@ li a{
 }
 .flex.wrap ul{
 	flex-wrap: wrap;
+}
+.flex-row div{
+	display: flex;
 }
 /* strenghts */
 .strenghts a{
@@ -2725,6 +2730,7 @@ ul.languages {
 			text-decoration: none;
 			margin: 2.5em 0 0 0;
 			padding: 0 0 0 3.25em;
+			display:contents;
 			position: relative;
 		}
 
