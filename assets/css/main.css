@@ -2719,7 +2719,18 @@ ul.languages {
 				font-size: 1.25em;
 			}
 
+/* Skills*/
+@media screen and (max-width: 736px) {
+
+.skills .col-6{
+width: 100%;
+}
+.skills .col-2,.skills .col-1{
+	width: 50%;
+	}
+}
 /* Contact */
+
 
 	ul.contact {
 		list-style: none;
