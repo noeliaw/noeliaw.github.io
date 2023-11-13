@@ -10,6 +10,7 @@
     padding: 5px;
   
 }
+
 .Course-badge:hover img {
     transform: scale(1.1); /* Increase the size on hover for a soft pulsation effect */
 }
@@ -49,3 +50,4 @@
     visibility: visible;
     opacity: 1;
 }
+

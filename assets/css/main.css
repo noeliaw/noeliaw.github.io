@@ -2709,7 +2709,16 @@ ul.languages {
 						}
 
 		}
+/* platzi*/
 
+.svg-platzi{
+	font-size: 80px;
+    padding: 20px!important;
+    width: 100px;
+}
+.svg-platzi a{
+	border-bottom: unset;
+}
 /* Icons */
 
 	ul.icons {
